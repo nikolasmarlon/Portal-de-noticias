@@ -14,12 +14,12 @@
 
     --font-family: "Archivo", sans-serif;
 
-    --heading1: 800 24px/135% var(--font-family);
-    --heading2: 800 16px/140% var(--font-family);
-    --heading3: 800 14px/140% var(--font-family);
-    --Span: 600 14px/145% var(--font-family);
-    --Paragraph: 400 14px/160% var(--font-family);
-    --tag: 500 12px/120% var(--font-family);
+    --heading1:     800 24px/135% var(--font-family);
+    --heading2:     800 16px/140% var(--font-family);
+    --heading3:     900 14px/140% var(--font-family);
+    --Span:         600 14px/145% var(--font-family);
+    --Paragraph:    400 14px/160% var(--font-family);
+    --tag:          500 12px/120% var(--font-family);
 
 
 } 
